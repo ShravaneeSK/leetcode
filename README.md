@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ShravaneeSK/leetcode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ShravaneeSK/leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ShravaneeSK/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
