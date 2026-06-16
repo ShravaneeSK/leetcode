@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ShravaneeSK/leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/ShravaneeSK/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShravaneeSK/leetcode/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ShravaneeSK/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ShravaneeSK/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
