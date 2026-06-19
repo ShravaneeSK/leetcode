@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShravaneeSK/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ShravaneeSK/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShravaneeSK/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShravaneeSK/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ShravaneeSK/leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ShravaneeSK/leetcode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ShravaneeSK/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
