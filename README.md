@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ShravaneeSK/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ShravaneeSK/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShravaneeSK/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,22 +48,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShravaneeSK/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShravaneeSK/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShravaneeSK/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShravaneeSK/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShravaneeSK/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ShravaneeSK/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShravaneeSK/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShravaneeSK/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
