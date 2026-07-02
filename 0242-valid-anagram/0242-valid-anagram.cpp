@@ -8,8 +8,8 @@ public:
         return false;
 
         for(int i=0;i<s.size();i++){
-            m1[s[i]]++;//count
-            m2[t[i]]++;
+            m1[s[i]]++;//count//traverse from left to right
+            m2[t[i]]++;//traverse from right left
 
 
         }
