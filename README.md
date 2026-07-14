@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ShravaneeSK/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShravaneeSK/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ShravaneeSK/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShravaneeSK/leetcode/tree/master/0069-sqrtx) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ShravaneeSK/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShravaneeSK/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShravaneeSK/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ShravaneeSK/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ShravaneeSK/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ShravaneeSK/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ShravaneeSK/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
