@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ShravaneeSK/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShravaneeSK/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShravaneeSK/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShravaneeSK/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
