@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShravaneeSK/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShravaneeSK/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ShravaneeSK/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ShravaneeSK/leetcode/tree/master/0136-single-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShravaneeSK/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ShravaneeSK/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShravaneeSK/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShravaneeSK/leetcode/tree/master/0347-top-k-frequent-elements) |
